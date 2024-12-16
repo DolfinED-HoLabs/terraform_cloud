@@ -8,7 +8,7 @@ resource "aws_instance" "myec2_Public" {
 
    
   tags = {
-    Name = "dolfined_demo"
+    Name = "dolfined_demo1"
     Env = "Prod"
   }
 
